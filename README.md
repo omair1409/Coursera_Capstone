@@ -5,4 +5,4 @@ This is the first assignment in the Capstone
 Write some __markdown to explain that__ this notebook will be mainly used for the capstone project. </br>
 Import the pandas library as pd.</br>
 Import the Numpy library as np.</br>
-Print the following the statement: **Hello Capstone Project Course!
+Print the following the statement: **Hello Capstone Project Course!**
